@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
   package="me.carda.awesome_notifications">
   
     <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"  tools:ignore="ProtectedPermissions"/>
